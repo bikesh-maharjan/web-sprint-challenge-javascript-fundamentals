@@ -33,4 +33,4 @@ const summation = function (value) {
   return count; // returnin the count
 };
 
-console.log(summation(4)); // invoking here
+console.log(summation(4)); // invoking here for summation
