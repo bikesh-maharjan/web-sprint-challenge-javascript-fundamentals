@@ -24,7 +24,8 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
-1. Briefly compare and contrast `.forEach` & `.map` (2-3 sentences max)
+Briefly compare and contrast .forEach & .map (2-3 sentences max)
+.forEach does not return a new array. .map returns a new array. Both of them go through each element in an arrray.
 
 .forEach does not return a new array. .map returns a new array. Both of them go through each element in an arrray.
 
